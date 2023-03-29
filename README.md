@@ -1,2 +1,2 @@
 HTML e CSS
-segue os códi <3
+segue os códigos <3
